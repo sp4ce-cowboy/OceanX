@@ -7,10 +7,10 @@ My team and I created an autonomous submersible rover propelled by 6 brushless D
 ### Some Demos
 
 <a>
-  <img src="https://github.com/sp4ce-cowboy/OceanX/assets/19762596/638ed905-78cd-43e2-b33b-92161c65e19b" height="210" align="center"/>
+  <img src="https://github.com/sp4ce-cowboy/OceanX/assets/19762596/638ed905-78cd-43e2-b33b-92161c65e19b" height="220" align="center"/>
 </a>
 <a>
-  <img src="https://github.com/sp4ce-cowboy/OceanX/assets/19762596/eefbe720-7cd3-4bd1-bde3-8f50eb54abdf" height="210" align="center"/>
+  <img src="https://github.com/sp4ce-cowboy/OceanX/assets/19762596/eefbe720-7cd3-4bd1-bde3-8f50eb54abdf" height="220" align="center"/>
 </a>
 
 ### Project Scope
