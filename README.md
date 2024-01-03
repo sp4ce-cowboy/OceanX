@@ -21,4 +21,4 @@ We won the Bronze Award (and $100 cash vouchers) in the Upper Secondary Category
 The full-size poster can be found [here](https://github.com/sp4ce-cowboy/OceanX/blob/main/VJC%20Science%20Fair%20Challenge%20Final.pdf).
 
 ## Notes
-_This project, while originally dated 2016, is being bring uploaded onto GitHub in 2023 as part of an ongoing attempt at consolidating my portfolio and previous projects in a publically available manner._
+_This project, while originally dated 2016, is being uploaded onto GitHub in 2023 as part of an ongoing attempt at consolidating my portfolio and previous projects in a publically available manner._
