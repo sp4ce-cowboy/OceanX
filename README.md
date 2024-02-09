@@ -19,6 +19,3 @@ This project was a joint submission for the East Zone A*STAR Science Fair 2016 h
 We won the Bronze Award (and $100 cash vouchers) in the Upper Secondary Category. Some articles written by the school can be found on the school's website [here](https://www.victoria.moe.edu.sg/announcements/2016/east-zone-astar-science-festival-bronze/) and the school's facebook page [here](https://www.facebook.com/victoriaschoolsingapore/posts/congratulations-to-suresh-rubesh-4i-ivan-feng-4j-syed-wazir-4k-and-wayne-yeo-4kt/879824925455004/).
 
 The full-size poster can be found [here](https://github.com/sp4ce-cowboy/OceanX/blob/main/VJC%20Science%20Fair%20Challenge%20Final.pdf).
-
-## Notes
-_This project, while originally dated 2016, is being uploaded onto GitHub in 2023 as part of an ongoing attempt at consolidating my portfolio and previous projects in a publically available manner._
