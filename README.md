@@ -10,7 +10,7 @@ tested in Victoria School's koi pond.
 **[Bronze Award, Upper Secondary category, East Zone A\*STAR Science Fair 2016](https://www.facebook.com/victoriaschoolsingapore/posts/congratulations-to-suresh-rubesh-4i-ivan-feng-4j-syed-wazir-4k-and-wayne-yeo-4kt/879824925455004/)**
 
 [![Arduino](https://img.shields.io/badge/Arduino-Mega-00878F?logo=arduino&logoColor=white)](VJC%20Science%20Fair%20Challenge%20Final.pdf)
-[![C++](https://img.shields.io/badge/C%2B%2B-embedded-00599C?logo=cplusplus&logoColor=white)](POSTER.md#procedure)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)](POSTER.md#procedure)
 
 [![Award](https://img.shields.io/badge/A*STAR%20Science%20Fair%202016-Bronze-555?style=flat-square)](https://www.facebook.com/victoriaschoolsingapore/posts/congratulations-to-suresh-rubesh-4i-ivan-feng-4j-syed-wazir-4k-and-wayne-yeo-4kt/879824925455004/)
 
