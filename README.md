@@ -5,7 +5,7 @@
 **An underwater robot that checks a pond's water for the conditions behind algal blooms.**<br>
 A low-cost remotely operated vehicle (ROV): six brushless thrusters, a sealed PVC hull, an
 Arduino, and temperature and pH sensors with a data logger, tested in Victoria School's koi pond.
-My first engineering project, built with three schoolmates.
+Built by a team of four at Victoria School.
 
 **Bronze Award, Upper Secondary category, East Zone A\*STAR Science Fair 2016**
 
