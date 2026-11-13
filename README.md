@@ -65,7 +65,7 @@ and a Raspberry Pi link.
 [![Poster](docs/images/poster.jpg)](VJC%20Science%20Fair%20Challenge%20Final.pdf)
 <sub>The team's poster, the official submission ([full-size PDF](VJC%20Science%20Fair%20Challenge%20Final.pdf), [full text](POSTER.md)).</sub>
 
-## Skills shown
+## Skills covered
 
 | Skill | Where it shows (click the links for the poster) | Docs |
 |---|---|---|
